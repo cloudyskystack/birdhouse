@@ -1,6 +1,6 @@
-## delta
-[art fight page](https://artfight.net/character/8108776.delta)  
-literally just a bird version of my [skykid](https://artfight.net/character/7729850.cloudy). i need a better name for this bird holy shit
+## delta 
+literally just a bird version of my [skykid](https://artfight.net/character/7729850.cloudy). i need a better name for this bird holy shit  
+[art fight page](https://artfight.net/character/8108776.delta)
 
 ### basic info
 delta is a passerine bird with a (intended) body shape resembling a starling. I did a quick google search and apparently european starlings reach a top speed of around 77 km/h so I think that’s a good enough excuse for making it a racebird ~~umamusume style~~!  

@@ -1,6 +1,6 @@
 ## delta
 [art fight page](https://artfight.net/character/8108776.delta)  
-literally just a bird version of my skykid. i need a better name holy shit
+literally just a bird version of my [skykid](https://artfight.net/character/7729850.cloudy). i need a better name for this bird holy shit
 
 ### basic info
 delta is a passerine bird with a (intended) body shape resembling a starling. I did a quick google search and apparently european starlings reach a top speed of around 77 km/h so I think that’s a good enough excuse for making it a racebird ~~umamusume style~~!  
@@ -13,7 +13,7 @@ in a race, delta completely disregards any strategies it made in advance, just d
 
 ### relationships
 with morgan: delta thinks morgan’s perpetual deadpan attitude towards its shenanigans is hilarious and takes immense joy in teasing it. they often go out flying together to build up stamina and speed, during which they chat, race each other, and generally just enjoy the company.  
-with scarecrow: delta usually just. doesn’t really care what scarecrow is up to. its creations are cool, it supposes? delta’s not the math type, and has no idea why scarecrow keeps saying its name in place of those triangles in its equations. delta also thinks scarecrow should go outside more often.
+with scarecrow: delta usually just. doesn’t really care what scarecrow is up to. its creations are cool, it supposes? delta’s not the math type, and has no idea why scarecrow keeps saying its name in place of those little triangles in its equations. delta also thinks scarecrow should go outside more often.
 
 ### fun facts!
 delta’s racing history comes to 26: 5-3-8-10 — an amazing career so far (SARCASM)

@@ -2,7 +2,7 @@
 [https://cloudyskystack.github.io/birdhouse/](https://cloudyskystack.github.io/birdhouse/)
 
 hello! welcome to the info page for birdhouse, my series of bird characters :D
-github is amazing, but do note that since updating to github pages can be a bit slow, there's a chance that the webpage you're currently reading isn't the immediate up-to-date version.
+github is amazing, but do note that since pushing updates to github pages can be a bit slow, there's a chance that the webpage you're currently reading isn't the immediate up-to-date version. please do reload the page from time to time!
 
 they’re wildly different birds and they all live together in the same house. hence birdhouse.  
 are they friends? enemies? found family?? actual family??? i dunno but they tolerate each other at worst  

@@ -1,3 +1,6 @@
+## morgan
+chill mailbird. art fight page coming soon
+
 ### basic info
 morgan is a raven working as a mailbird at pretty much the best mail service in the land. well-trained in endurance, it specialises in long-range letter deliveries (while the pigeons do high-speed mail and the herons take care of parcels).  
 if this sounds familiar, then you’ve played [Ravenhaul](https://bippinbits.itch.io/ravenhaul) by bippinbits, which was the inspiration for making this bird!

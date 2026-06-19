@@ -1,4 +1,4 @@
-# the birdhouse
+## the birdhouse
 details about the birdhouse itself!
 
 the birdhouse is a pretty open space. areas blend together, and there is little need for walls. (the bathroom is outside.) it’s fully sheltered, with lots of windows, so the birds have a safe, dry place to sleep. it expands into all 3 axes — yes even vertically: there are platforms and perches extending out of the walls everywhere. you can imagine its structural dimensions however you wish.  

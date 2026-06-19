@@ -1,3 +1,5 @@
+(back to [birds](https://cloudyskystack.github.io/birdhouse/birds/))
+
 ## scarecrow
 a maker, a tinkerer, but most of all, a loser. art fight page coming soon
 

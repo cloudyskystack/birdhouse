@@ -12,8 +12,8 @@ delta is energetic, impulsive, and somewhat brash, with absolutely zero filter f
 in a race, delta completely disregards any strategies it made in advance, just doing whatever it feels is right. whether it wins or not is as unpredictable as the roll of a die. this also applies to its daily life outside racing.
 
 ### relationships
-with morgan: delta thinks morgan’s perpetual deadpan attitude towards its shenanigans is hilarious and takes immense joy in teasing it. they often go out flying together to build up stamina and speed, during which they chat, race each other, and generally just enjoy the company.  
-with scarecrow: delta usually just. doesn’t really care what scarecrow is up to. its creations are cool, it supposes? delta’s not the math type, and has no idea why scarecrow keeps saying its name in place of those little triangles in its equations. delta also thinks scarecrow should go outside more often.
+with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): delta thinks morgan’s perpetual deadpan attitude towards its shenanigans is hilarious and takes immense joy in teasing it. they often go out flying together to build up stamina and speed, during which they chat, race each other, and generally just enjoy the company.  
+with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): delta usually just. doesn’t really care what scarecrow is up to. its creations are cool, it supposes? delta’s not the math type, and has no idea why scarecrow keeps saying its name in place of those little triangles in its equations. delta also thinks scarecrow should go outside more often.
 
 ### fun facts!
 delta’s racing history comes to 26: 5-3-8-10 — an amazing career so far (SARCASM)

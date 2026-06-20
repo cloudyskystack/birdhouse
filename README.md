@@ -13,9 +13,3 @@ I’m definitely planning on adding more birds, so this collection is still very
 I generally refer to all of my birds with it/its, but any way of referring to them is fine.
 
 here’s the [playlist](https://open.spotify.com/playlist/6LXttaXUKkk86i454kHbos?si=pcfN2SjsQaOkNiORlWXXlw)
-
-
-
-
-
-hi

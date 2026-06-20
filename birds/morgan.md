@@ -18,7 +18,7 @@ with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): bo
 
 ### fun facts!
 the company that morgan works for is called the **c**rest**h**eld **i**nternational **r**econ/**p**ostal **s**ervice (crestheld for short). their employees are (kind of, as much as a relatively large company can) affectionately called **chirps** so my acronym doesn’t go to waste.  
-also means i have an excuse to do workplace comedy. which is very in line with my art fight 2026 team
+also means i have an excuse to do workplace comedy. which is very in line with my art fight 2026 team. if you're reading this hihi this is an invitation to draw morgan in shenanigans with other ocs idk i havent watched the office
 
 ### tracks
 [The Tower Aviary (from “Ravenhaul”)](https://www.youtube.com/watch?v=-7YF6PulRm4)  

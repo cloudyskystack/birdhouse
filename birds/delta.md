@@ -10,7 +10,7 @@ if you know about pigeon races then there’s a chance that, like me, you think 
 delta participates in these races purely out of interest, taking home the cash prizes if it wins, and eating shit otherwise.
 
 ### personality
-delta is energetic, impulsive, and somewhat brash, with absolutely zero filter for whatever comes out of its beak. it’ll be your biggest cheerleader and your biggest hater at the same time, bluntly pointing out areas where you’re lacking and shouting at you, “LOCK IN BRO YOU GOT THIS”  
+delta is energetic, impulsive, and somewhat brash, with absolutely zero filter for whatever comes out of its beak. (noisy and obnoxious like a myna,,,) it’ll be your biggest cheerleader and your biggest hater at the same time, bluntly pointing out areas where you’re lacking and shouting at you, “LOCK IN BRO YOU GOT THIS”  
 in a race, delta completely disregards any strategies it made in advance, just doing whatever it feels is right. whether it wins or not is as unpredictable as the roll of a die. this also applies to its daily life outside racing.
 
 ### relationships

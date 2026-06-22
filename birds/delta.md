@@ -18,7 +18,7 @@ with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): delta th
 with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): delta usually just. doesn’t really care what scarecrow is up to. its creations are cool, it supposes? delta’s not the math type, and has no idea why scarecrow keeps saying its name in place of those little triangles in its equations. delta also thinks scarecrow should go outside more often.
 
 ### fun facts!
-delta’s racing history comes to 26: 5-3-8-10 — an amazing career so far (SARCASM)
+delta’s racing history comes to 25: 3-4-8-10 — an amazing career so far (SARCASM)
 
 ### tracks
 [Free Bird](https://www.youtube.com/watch?v=0LwcvjNJTuM)  

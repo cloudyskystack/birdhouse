@@ -1,7 +1,7 @@
 (back to [birds](https://cloudyskystack.github.io/birdhouse/birds/))
 
 ## morgan
-chill mailbird.  
+chill mailbird  
 [art fight page](https://artfight.net/character/9306111.morgan)
 
 ### basic info

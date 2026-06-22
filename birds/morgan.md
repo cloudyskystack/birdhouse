@@ -11,7 +11,7 @@ if this sounds familiar, then you’ve played [Ravenhaul](https://bippinbits.itc
 ### personality
 morgan usually prefers to hang out in some part of the room, observing others interact while it reads a good history book. its silent presence is not to be mistaken for idle disengagement. it is always watching and always listening.  
 it’s also a very reliable bird — you can trust it to get anything done. that is, if it accepts your request. don’t try to force anything on it.  
-morgan likes anything to do with traveling a distance, whether to the supermarket five minutes away or halfway across the country.
+morgan likes anything to do with travelling a distance, whether to the supermarket five minutes away or halfway across the country.
 
 ### relationships
 with [delta](https://cloudyskystack.github.io/birdhouse/birds/delta): morgan is content to play audience to delta’s high-energy presence. on long flights together, they talk about anything under the sun.  

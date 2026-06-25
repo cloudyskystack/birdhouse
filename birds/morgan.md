@@ -15,7 +15,7 @@ morgan likes anything to do with travelling a distance, whether to the supermark
 
 ### relationships
 with [delta](https://cloudyskystack.github.io/birdhouse/birds/delta): morgan is content to play audience to delta’s high-energy presence. on long flights together, they talk about anything under the sun.  
-with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): both of them have a shared interest in maths, logical puzzles, and engineering, but scarecrow is much more involved in those fields. they sometimes discuss interesting math things.
+with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): both of them have a shared interest in maths, logical puzzles, and engineering, but scarecrow is much more involved in those fields. they sometimes discuss interesting math things. morgan also takes scarecrow's commission work to the post office, but the delivery part is the herons' job.
 
 ### fun facts!
 the company that morgan works for is called the **c**rest**h**eld **i**nternational **r**econ/**p**ostal **s**ervice (crestheld for short). their employees are (kind of, as much as a relatively large company can) affectionately called **chirps** so my acronym doesn’t go to waste.  

@@ -16,7 +16,7 @@ with [delta](https://cloudyskystack.github.io/birdhouse/birds/delta): delta is a
 with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): other than helping it carry its works to the post office, it’s nice having someone around to talk about the things scarecrow would usually like to talk about. it also admires morgan’s ability to just blend in with the rest of the cast. what, pff, no, scarecrow isn’t jealous of that.  
 
 ### fun facts!
-scarecrow’s character was partly inspired by my role as scarecrow (wizard of oz) in a small production called _behind the curtain_! there’s many more interesting characters in there too that I might use for other (non-birdhouse) characters.  
+scarecrow’s character was partly inspired by my role as scarecrow (wizard of oz) in a drama school production of _behind the curtain_! there’s many more interesting characters in there too that I might use for other (non-birdhouse) characters.  
 airy hfjone is that you
 
 ### songs

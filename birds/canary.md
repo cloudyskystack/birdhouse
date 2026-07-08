@@ -21,5 +21,5 @@ with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): [c
 [canary] was the start, [canary] is the end, [canary] weaves the frayed strands back together, again and again.
 
 ### songs
-[Birdhouse In Your Soul](https://www.youtube.com/watch?v=vn_or9gEB6g)
+[Birdhouse In Your Soul](https://www.youtube.com/watch?v=vn_or9gEB6g)  
 [Birdhouse In Your Soul (Demo)](https://www.youtube.com/watch?v=KZ0aaQXmz7Y) <-- I don't associate this one with [canary], just thought it'd be cool to include

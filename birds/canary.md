@@ -10,11 +10,13 @@ _make a little birdhouse in your soul!_
 ### personality
 [canary] is a cheerful bird and can frequently be heard singing a tune! it likes to hang out with the other birds, sharing its positive vibes :)  
 it has a childlike attitude towards most things, and believes anything can be solved if you put your mind to it. _if_ you put your mind to it.  
-being effectively unemployed, [canary] seeks to help out around the birdhouse as much as it can. it seems to take
+being effectively unemployed, [canary] seeks to help out around the birdhouse as much as it can.
+
+[canary] loves to _make_ friends!
 
 ### relationships
 with [delta](https://cloudyskystack.github.io/birdhouse/birds/delta): [canary] thinks delta is so cool... [canary] goes to see all of its races. they play together a lot!  
-with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): sometimes, [canary] and morgan stare at each other to try to figure out what the other bird is thinking. though [canary] is usually spacing out.  
+with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): sometimes, [canary] and morgan stare at each other across the room to try to figure out what the other bird is thinking. though [canary] is usually spacing out.  
 with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): [canary] is always glad to help scarecrow with all its project work, even though it has no idea what scarecrow is doing or how any of its thingamajigs work. [canary] mostly helps to collect scrap material.  
 
 ### fun facts!

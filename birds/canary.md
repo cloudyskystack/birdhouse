@@ -12,7 +12,7 @@ _make a little birdhouse in your soul!_
 it has a childlike attitude towards most things, and believes anything can be solved if you put your mind to it. _if_ you put your mind to it.  
 being effectively unemployed, [canary] seeks to help out around the birdhouse as much as it can.
 
-[canary] loves to _make_ friends!
+[canary] loves to **make** friends!
 
 ### relationships
 with [delta](https://cloudyskystack.github.io/birdhouse/birds/delta): [canary] thinks delta is so cool... [canary] goes to see all of its races. they play together a lot!  

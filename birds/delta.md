@@ -15,7 +15,7 @@ in a race, delta completely disregards any strategies it made in advance, just d
 it likes to do things fast. unfortunately this means it is quite an impatient bird.
 
 ### relationships
-with [morgan](../morgan): delta thinks morgan’s perpetual deadpan attitude towards its shenanigans is hilarious and takes immense joy in teasing it. they often go out flying together to build up stamina and speed, during which they chat, race each other, and generally just enjoy the company.  
+with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): delta thinks morgan’s perpetual deadpan attitude towards its shenanigans is hilarious and takes immense joy in teasing it. they often go out flying together to build up stamina and speed, during which they chat, race each other, and generally just enjoy the company.  
 with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): delta usually just. doesn’t really care what scarecrow is up to. its creations are cool, it supposes? delta’s not the math type, and has no idea why scarecrow keeps saying its name in place of those little triangles in its equations. delta also thinks scarecrow should go outside more often.
 
 ### fun facts!

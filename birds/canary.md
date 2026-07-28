@@ -14,7 +14,7 @@ being effectively unemployed, [canary] seeks to help out around the birdhouse as
 [canary] loves to **make** friends!
 
 ### relationships
-with [delta]: [canary] thinks delta is so cool... [canary] goes to see all of its races. they play together a lot!  
+with [delta](https://cloudyskystack.github.io/birdhouse/birds/delta): [canary] thinks delta is so cool... [canary] goes to see all of its races. they play together a lot!  
 with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): sometimes, [canary] and morgan stare at each other across the room to try to figure out what the other bird is thinking. though [canary] is usually spacing out.  
 with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): [canary] is always glad to help scarecrow with all its project work, even though it has no idea what scarecrow is doing or how any of its thingamajigs work. [canary] mostly helps to collect scrap material.  
 

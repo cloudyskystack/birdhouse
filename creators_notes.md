@@ -7,4 +7,9 @@ any birds that I haven't made public on [my art fight](https://artfight.net/~clo
 I know that some people on art fight make "design me a character" characters, so I might do that for 2027. I'll definitely put up at least one more bird before that. morgan is the closest to being published next!  
 
 ### the world outside the birdhouse
-to be honest, I haven't given this much thought. we can assume it's a world of birds, like in _[Ravenhaul](https://bippinbits.itch.io/ravenhaul)_ or _[Bed and BEAKfast](https://store.steampowered.com/app/2844620/Bed_and_BEAKfast/)_ (im in love with the character design...)
+to be honest, I haven't given this much thought. we can assume it's a world of birds, like in _[Ravenhaul](https://bippinbits.itch.io/ravenhaul)_ or _[Bed and BEAKfast](https://store.steampowered.com/app/2844620/Bed_and_BEAKfast/)_ (im in love with the art...), but I also like the idea of a (human) birdkeeper character. I just don't want to draw any humanoids for the time being. that can remain a concept.
+
+### where can i contact you???
+I'm honoured that you want to talk to me!  
+(kidding)  
+if you have any tips or ideas for _birdhouse_, or just wanna chat about something else, you can drop me an ask or a dm on [tumblr](https://www.tumblr.com/blog/cloudy-brained) or [art fight](https://artfight.net/~cloudyskykid). I'm always open to feedback :)

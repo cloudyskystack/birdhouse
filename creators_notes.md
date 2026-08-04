@@ -12,4 +12,4 @@ to be honest, I haven't given this much thought. we can assume it's a world of b
 ### where can i contact you???
 I'm honoured that you want to talk to me!  
 (kidding)  
-if you have any tips or ideas for _birdhouse_, or just wanna chat about something else, you can drop me an ask or a dm on [tumblr](https://www.tumblr.com/blog/cloudy-brained) or [art fight](https://artfight.net/~cloudyskykid). I'm always open to feedback :)
+if you have any tips or ideas for _birdhouse_, or just wanna chat about something else, you can drop me an ask or a dm on [tumblr](https://www.tumblr.com/cloudy-brained) or [art fight](https://artfight.net/~cloudyskykid). I'm always open to feedback :)

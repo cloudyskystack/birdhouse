@@ -2,7 +2,7 @@
 [https://github.com/cloudyskystack/birdhouse](https://github.com/cloudyskystack/birdhouse)  
 art fight: [cloudyskykid](https://artfight.net/~cloudyskykid)
 
-see my [birds](https://cloudyskystack.github.io/birdhouse/birds/) | read about the [birdhouse](https://cloudyskystack.github.io/birdhouse/house.html)
+see my [birds](https://cloudyskystack.github.io/birdhouse/birds/) | read about [the birdhouse](https://cloudyskystack.github.io/birdhouse/house.html)
 
 hello! welcome to the info page for birdhouse, my series of bird characters :D  
 do note that since pushing updates to github pages can take up to 10 minutes for big changes, there's a slight chance that the webpage you're currently reading isn't the immediate up-to-date version. please reload the page from time to time!

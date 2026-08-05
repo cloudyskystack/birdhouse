@@ -1,5 +1,5 @@
 ## creator's notes
-hi, thanks so much for taking the time to read through this site! on this page, I'll be talking about some loose or meta concepts I have that aren't developed enough to be properly introduced as birds or aspects of _birdhouse_.  
+hi, thanks so much for taking the time to read through this site! on this page, I'll be talking about some loose concepts I have that aren't developed enough to be properly introduced as birds or aspects of _birdhouse_.  
 my ideas will change pretty often, especially because it's a new thing, so this site will also update frequently.  
 
 ### birds in the draft

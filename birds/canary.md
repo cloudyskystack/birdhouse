@@ -7,7 +7,7 @@ _make a little birdhouse in your soul!_
 [canary] is a luminous little blue canary. (I may change its species, and consequently, its name.) no not an [indigo bunting](https://en.wikipedia.org/wiki/Indigo_bunting) (though they look very nice), just a transparent canary that is blue. it always has a cable running from its body to somewhere out-of-frame. there is no coal mine analogy either.  
 
 ### personality
-[canary] is a cheerful bird and can frequently be heard singing a tune! it likes to hang out with the other birds, sharing its positive vibes :)  
+[canary] is a cheerful bird who can frequently be heard singing a tune! it likes to hang out with the other birds, sharing its positive vibes :)  
 it has a childlike attitude towards most things, and believes anything can be solved if you put your mind to it. _if_ you put your mind to it.  
 being effectively unemployed, [canary] seeks to help out around the birdhouse as much as it can.
 

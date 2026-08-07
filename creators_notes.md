@@ -13,7 +13,7 @@ currently, it is the most complex out of the few birds I've made, because it's t
 I will give you a hint in this next section though:
 
 ### was [canary] inspired by caine from tadc?
-prior to making _birdhouse_, I had only watched tadc from the pilot through half of episode 7, which if I'm correct is clean before the big reveal about the reality of the circus. anyway I wasn't thinking about tadc at all when coming up with [canary], so the similarities between them is just a coincidence lol. won't lie though it's quite possible I was subconsciously influenced by it (and media with similar themes/plot, like airy from hfjone)
+prior to making _birdhouse_, I had only watched _The Amazing Digital Circus_ from the pilot through half of episode 7, which if I'm correct is clean before the big reveal about the reality of the circus. anyway I wasn't thinking about tadc at all when coming up with [canary], so the similarities between them is just a coincidence lol. won't lie though it's quite possible I was subconsciously influenced by it (and media with similar themes/plot, like airy from hfjone)
 
 ### the world outside the birdhouse
 to be honest, I haven't given this much thought. we can assume it's a world of birds, like in _[Ravenhaul](https://bippinbits.itch.io/ravenhaul)_ or _[Bed and BEAKfast](https://store.steampowered.com/app/2844620/Bed_and_BEAKfast/)_ (im in love with the art...), or a world where birds have their own societies alongside humans, but I also like the idea of a (human) birdkeeper character. I just don't want to draw any humanoids for the time being. that can remain a concept.

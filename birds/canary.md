@@ -5,7 +5,7 @@ _make a little birdhouse in your soul!_
 
 ### basic info
 [canary] is a luminous little blue canary. (I may change its species, and consequently, its name.) no not an [indigo bunting](https://en.wikipedia.org/wiki/Indigo_bunting) (though they look very nice), just a transparent canary that is blue. it always has a cable running from its body to somewhere out-of-frame. there is no coal mine analogy either.  
-when writing [canary] as its name, use either [square brackets] or {curly braces}, but never "canary" by itself. this is not a concern for the other birds because they never call it "[canary]".
+when writing [canary] as its name, use either [square brackets] or {curly braces}.
 
 ### personality
 [canary] is a cheerful bird who can frequently be heard singing a tune! it likes to hang out with the other birds, sharing its positive vibes :)  

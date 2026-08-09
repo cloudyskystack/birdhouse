@@ -9,10 +9,9 @@ I know that some people on art fight make "design me a character" characters, so
 ### what's up with [canary]?
 [canary] is not its real name. [canary] is not a name.  
 currently, it is the most complex out of the few birds I've made, because it's the only bird whose lore I actually got to thinking about, and because it's kinda integral to the broader workings of _birdhouse_.  
-[canary]'s role in _birdhouse_ is something I want to explore further in more solid works, so I won't explain it here. I've got plans ;)  
-I will give you a hint in this next section though:
+[canary]'s role in _birdhouse_ is something I want to explore further in more solid works, so I won't explain it here. I've got plans ;)
 
-### was [canary] inspired by caine from tadc?
+#### was [canary] inspired by caine from tadc?
 prior to making _birdhouse_, I had only watched _The Amazing Digital Circus_ from the pilot through half of episode 7, which if I'm correct is clean before the big reveal about the reality of the circus. anyway I wasn't thinking about tadc at all when coming up with [canary], so the similarities between them is just a coincidence lol. won't lie though it's quite possible I was subconsciously influenced by it (and media with similar themes/plot, like airy from [hfjone](https://youtube.com/playlist?list=PLibm-rpGR0iD8pJdfYJCFtw4OZUxuUCuM&si=Mt2119UfnHqSNq63))
 
 ### the world outside the birdhouse

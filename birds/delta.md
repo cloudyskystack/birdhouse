@@ -16,7 +16,7 @@ it likes to do things fast. unfortunately this means it is quite an impatient bi
 
 ### relationships
 with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): delta thinks morgan’s perpetual deadpan attitude towards its shenanigans is hilarious and takes immense joy in teasing it. they often go out flying together to build up stamina and speed, during which they chat, race each other, and generally just enjoy the company.  
-with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): delta doesn’t really care what scarecrow is up to. its creations are cool, it supposes? delta’s not the math type, and has no idea why scarecrow keeps saying its name in place of those little triangles in its equations. delta also thinks scarecrow should go outside more often.
+with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): delta doesn’t really care what scarecrow is up to. its creations are cool, it supposes? delta’s not the math type, and has no idea why scarecrow keeps saying its name in place of those little triangles in its equations. delta also thinks scarecrow should go outside more often.  
 with [[canary]](https://cloudyskystack.github.io/birdhouse/birds/canary): [canary] is pretty much the only bird who fully indulges in its tomfoolery, and delta's beyond glad it does! they have several whales of numerous times together.
 
 ### fun facts!

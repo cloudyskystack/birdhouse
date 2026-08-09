@@ -14,6 +14,7 @@ they don't know it (since they don't talk much) but scarecrow and delta are a li
 ### relationships
 with [delta](https://cloudyskystack.github.io/birdhouse/birds/delta): delta is a bit too loud sometimes. but it also flies really fast, and scarecrow thinks it can harness that for something useful.  
 with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): other than helping it carry its works to the post office, it’s nice having someone around to talk about the things scarecrow would usually like to talk about. it also admires morgan’s ability to just blend in with the rest of the cast. what, pff, no, scarecrow isn’t jealous of that.  
+with [[canary]](https://cloudyskystack.github.io/birdhouse/birds/canary): scarecrow is happy that [canary] seems so invested in its creations! it's been trying to teach it the workings behind each one, but with little success...
 
 ### fun facts!
 scarecrow’s character was partly inspired by my role as scarecrow (wizard of oz) in a drama school production of _behind the curtain_! there’s many more interesting characters in there too that I might use for other (non-birdhouse) characters.  

@@ -17,8 +17,7 @@ with [morgan](https://cloudyskystack.github.io/birdhouse/birds/morgan): other th
 with [[canary]](https://cloudyskystack.github.io/birdhouse/birds/canary): scarecrow is happy that [canary] seems so invested in its creations! it's been trying to teach it the workings behind each one, but with little success...
 
 ### fun facts!
-scarecrow’s character was partly inspired by my role as scarecrow (wizard of oz) in a drama school production of _behind the curtain_! there’s many more interesting characters in there too that I might use for other (non-birdhouse) characters.  
-airy hfjone is that you
+scarecrow’s character was partly inspired by my role as scarecrow (wizard of oz) in a drama school production of _behind the curtain_! there’s many more interesting characters in there too that I might use for other (non-birdhouse) characters.
 
 ### songs
 [Scatterbrain](https://www.youtube.com/watch?v=r7mN9BLr4jU)

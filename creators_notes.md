@@ -8,7 +8,7 @@ I know that some people on art fight make "design me a character" characters, so
 
 ### what's up with [canary]?
 [canary] is not its real name. [canary] is not a name.  
-(reminder: "[canary]" should be written with either [square brackets] or {curly braces}! I may consider using <angle brackets> too, but I'm not quite sure yet)  
+(reminder: "[canary]" should be written with either [square brackets] or {curly braces}!)  
 currently, it is the most complex out of the few birds I've made, because it's the only bird whose lore I actually got to thinking about, and because it's kinda integral to the broader workings of _birdhouse_.  
 [canary]'s role in _birdhouse_ is something I want to explore further in more solid works, so I won't explain it here. I've got plans ;)  
 #### was [canary] inspired by caine from tadc?

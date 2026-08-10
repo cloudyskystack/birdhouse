@@ -8,13 +8,15 @@ I know that some people on art fight make "design me a character" characters, so
 
 ### what's up with [canary]?
 [canary] is not its real name. [canary] is not a name.  
+(okay, fine. [canary] is a placeholder.)  
 currently, it is the most complex out of the few birds I've made, because it's the only bird whose lore I actually got to thinking about, and because it's kinda integral to the broader workings of _birdhouse_.  
 [canary]'s role in _birdhouse_ is something I want to explore further in more solid works, so I won't explain it here. I've got plans ;)  
-#### was [canary] inspired by caine from tadc?
-prior to making _birdhouse_, I had only watched _The Amazing Digital Circus_ from the pilot through half of episode 7, which if I'm correct is clean before the big reveal about the reality of the circus. anyway I wasn't thinking about tadc at all when coming up with [canary], so the similarities between them is just a coincidence lol. though it's quite possible I was subconsciously influenced by it (and media with similar themes/plot, like airy from [hfjone](https://youtube.com/playlist?list=PLibm-rpGR0iD8pJdfYJCFtw4OZUxuUCuM))
+#### inspirations?
+keen observers (and elite ball knowledge havers) may notice that [canary] bears some similarities to Airy from [_ONE_](https://m.youtube.com/playlist?list=PLibm-rpGR0iD8pJdfYJCFtw4OZUxuUCuM) and Caine from [_The Amazing Digital Circus_](https://m.youtube.com/playlist?list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-). when I was making _birdhouse_ for real, I wasn’t thinking about either in particular, but the knowledge of it may have subconsciously made its way into [canary]’s writing. nothing is truly original, all art is inspired etc etc  
+anyway I can’t really say anything about caine because I didn’t watch tadc 8 and 9 myself so uh
 
 ### the world outside the birdhouse
-to be honest, I haven't given this much thought. we can assume it's a world of birds, like in _[Ravenhaul](https://bippinbits.itch.io/ravenhaul)_ or _[Bed and BEAKfast](https://store.steampowered.com/app/2844620/Bed_and_BEAKfast/)_ (im in love with the art...), or a world where birds have their own societies alongside humans, but I also like the idea of a (human) birdkeeper character. I just don't want to draw any humanoids for the time being. that can remain a concept.
+to be honest, I haven't given this much thought. we can assume it's a world of birds, like in [_Ravenhaul_](https://bippinbits.itch.io/ravenhaul) or [_Bed and BEAKfast_](https://store.steampowered.com/app/2844620/Bed_and_BEAKfast/) (im in love with the art...), or a world where birds have their own societies alongside humans, but I also like the idea of a (human) birdkeeper character. I just don't want to draw any humanoids for the time being. that can remain a concept.
 
 ### where can i contact you???
 I'm honoured that you want to talk to me!  

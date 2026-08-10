@@ -15,7 +15,7 @@ currently, it is the most complex out of the few birds I've made, because it's t
 [canary]'s role in _birdhouse_ is something I want to explore further in more solid works, so I won't explain it here. I've got plans ;)  
 #### inspirations?
 apart from the glaringly obvious reference to “[Birdhouse in Your Soul](https://m.youtube.com/watch?v=vn_or9gEB6g)”,,,  
-keen observers (and elite ball knowledge havers) may notice that [canary] bears some similarities to Airy from [_ONE_](https://m.youtube.com/playlist?list=PLibm-rpGR0iD8pJdfYJCFtw4OZUxuUCuM) and Caine from [_The Amazing Digital Circus_](https://m.youtube.com/playlist?list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-). when I was making _birdhouse_ for real, I wasn’t thinking about either in particular, but the knowledge of it may have subconsciously made its way into [canary]’s writing. nothing is truly original, all art is inspired etc etc  
+keen observers (and elite ball knowledge havers) may notice that [canary] bears some similarities to Airy from [_ONE_](https://m.youtube.com/playlist?list=PLibm-rpGR0iD8pJdfYJCFtw4OZUxuUCuM) and Caine from [_The Amazing Digital Circus_](https://m.youtube.com/playlist?list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-). when I was making _birdhouse_ for real, I wasn’t thinking about either in particular, but the knowledge of it may have subconsciously made its way into [canary]’s writing. all art is inspired, nothing is truly original etc etc  
 anyway I can’t really say anything about caine cuz I didn’t watch tadc 8 and 9 myself so uh
 
 ### the world outside the birdhouse

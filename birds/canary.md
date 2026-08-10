@@ -26,5 +26,5 @@ with [scarecrow](https://cloudyskystack.github.io/birdhouse/birds/scarecrow): [c
 ### tracks
 [Birdhouse In Your Soul](https://www.youtube.com/watch?v=vn_or9gEB6g)  
 [Birdhouse In Your Soul (Demo)](https://www.youtube.com/watch?v=KZ0aaQXmz7Y) <-- I don't associate this one with [canary], just thought it'd be cool to include  
-[The Whole World and You](https://www.youtube.com/watch?v=A-ZUo62N7Kc)
-[rewindreplay-finalfinal(1).mp3](https://m.youtube.com/watch?v=fTJY5z1-wKY)
+[The Whole World and You](https://www.youtube.com/watch?v=A-ZUo62N7Kc)  
+[rewindreplay-finalfinal(1).mp3](https://m.youtube.com/watch?v=fTJY5z1-wKY)  

@@ -1,11 +1,11 @@
 ## welcome to birdhouse!
 [https://github.com/cloudyskystack/birdhouse](https://github.com/cloudyskystack/birdhouse)  
-art fight: [cloudyskykid](https://artfight.net/~cloudyskykid)
+art fight: [cloudyskykid](https://artfight.net/~cloudyskykid)  
+this is a barebones static web page that receives updates regularly. light/dark theme depends on your device preferences.
 
 see my [birds](https://cloudyskystack.github.io/birdhouse/birds/) | read about [the birdhouse](https://cloudyskystack.github.io/birdhouse/house) | [creator's notes](https://cloudyskystack.github.io/birdhouse/creators_notes)
 
-hello! welcome to the info page for birdhouse, my series of bird characters :D  
-this is a barebones static web page that receives updates regularly. light/dark theme depends on your device preferences.
+hello! welcome to the info page for birdhouse, my series of bird characters :D
 
 they’re wildly different [birds](https://cloudyskystack.github.io/birdhouse/birds/) and they all live together in the same [house](https://cloudyskystack.github.io/birdhouse/house.html). hence birdhouse.  
 are they friends? found family?? actual family??? i dunno but they tolerate each other at worst  

@@ -5,7 +5,7 @@ art fight: [cloudyskykid](https://artfight.net/~cloudyskykid)
 see my [birds](https://cloudyskystack.github.io/birdhouse/birds/) | read about [the birdhouse](https://cloudyskystack.github.io/birdhouse/house) | [creator's notes](https://cloudyskystack.github.io/birdhouse/creators_notes)
 
 hello! welcome to the info page for birdhouse, my series of bird characters :D  
-do note that since pushing updates to github pages can take up to 10 minutes for big changes, there's a slight chance that the webpage you're currently reading isn't the immediate up-to-date version. please reload the page from time to time!
+this is a barebones static web page that receives updates regularly. light/dark theme depends on your device preferences.
 
 they’re wildly different [birds](https://cloudyskystack.github.io/birdhouse/birds/) and they all live together in the same [house](https://cloudyskystack.github.io/birdhouse/house.html). hence birdhouse.  
 are they friends? found family?? actual family??? i dunno but they tolerate each other at worst  

@@ -15,13 +15,15 @@ currently, it is the most complex out of the few birds I've made, because it's t
 [canary]'s role in _birdhouse_ is something I want to explore further in more solid works, so I won't explain it here. I've got plans ;)  
 #### inspirations?
 apart from the glaringly obvious reference to “[Birdhouse in Your Soul](https://m.youtube.com/watch?v=vn_or9gEB6g)”,,,  
-keen observers (and elite ball knowledge havers) may notice that [canary] bears some similarities to Airy from [_ONE_](https://m.youtube.com/playlist?list=PLibm-rpGR0iD8pJdfYJCFtw4OZUxuUCuM) and Caine from [_The Amazing Digital Circus_](https://m.youtube.com/playlist?list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-). when I was making _birdhouse_ for real, I wasn’t thinking about either in particular, but the knowledge of it may have subconsciously made its way into [canary]’s writing. all art is inspired, nothing is truly original etc etc  
+keen observers (and elite ball knowledge havers) may notice that [canary] bears some similarities to Airy from [_ONE_](https://m.youtube.com/playlist?list=PLibm-rpGR0iD8pJdfYJCFtw4OZUxuUCuM) and possibly Caine from [_The Amazing Digital Circus_](https://m.youtube.com/playlist?list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-). when I started to write _birdhouse_ for real, I wasn’t thinking about either in particular, but the knowledge of them may have subconsciously made its way into [canary]’s writing. all art is inspired, nothing is pure original etc etc  
 anyway I can’t really say anything about caine cuz I didn’t watch tadc 8 and 9 myself so uh
 
 ### the world outside the birdhouse
 to be honest, I haven't given this much thought. we can assume it's a world of birds, like in [_Ravenhaul_](https://bippinbits.itch.io/ravenhaul) or [_Bed and BEAKfast_](https://store.steampowered.com/app/2844620/Bed_and_BEAKfast/) (im in love with the art...), or a world where birds have their own societies alongside humans, but I also like the idea of a (human) birdkeeper character. I just don't want to draw any humanoids for the time being. that can remain a concept.
 
 ### where can i contact you???
-I'm honoured that you want to talk to me!  
-(kidding)  
-if you have any tips/ideas/questions about _birdhouse_, or just wanna chat about something else, you can drop me an ask or a dm on [tumblr](https://www.tumblr.com/cloudy-brained) or [art fight](https://artfight.net/~cloudyskykid). I'm always open to feedback :)
+I'm honoured that you want to talk to me! /lh  
+if you have any tips/ideas/questions about _birdhouse_, or just wanna chat about something else:  
+drop me an ask or a dm on tumblr [@cloudy-brained](https://www.tumblr.com/cloudy-brained), or on art fight at [cloudyskykid](https://artfight.net/~cloudyskykid)  
+I also created a [strawpage](https://cloudyskykid.straw.page) for this specific purpose. or you can email me at scratchingcats.sh@gmail.com  
+I'm always open to feedback :)

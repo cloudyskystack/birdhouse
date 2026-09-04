@@ -1,6 +1,6 @@
 ## welcome to birdhouse!
 [https://github.com/cloudyskystack/birdhouse](https://github.com/cloudyskystack/birdhouse)  
-art fight: [cloudyskykid](https://artfight.net/~cloudyskykid)  
+art fight: [cloudyskykid](https://artfight.net/~cloudyskykid), tumblr: [@cloudy-brained](https://www.tumblr.com/cloudy-brained), strawpage: [https://cloudyskykid.straw.page](https://cloudyskykid.straw.page), email: scratchingcats.sh@gmail.com  
 this is a barebones static web page that receives updates regularly. light/dark theme depends on your device preferences.
 
 see my [birds](https://cloudyskystack.github.io/birdhouse/birds/) | read about [the birdhouse](https://cloudyskystack.github.io/birdhouse/house) | [creator's notes](https://cloudyskystack.github.io/birdhouse/creators_notes)

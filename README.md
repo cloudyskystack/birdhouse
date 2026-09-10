@@ -1,4 +1,5 @@
 ## welcome to birdhouse!
+
 see my [birds](https://cloudyskystack.github.io/birdhouse/birds/) | read about [the birdhouse](https://cloudyskystack.github.io/birdhouse/house) | [creator's notes](https://cloudyskystack.github.io/birdhouse/creators_notes) | [playlist](https://open.spotify.com/playlist/6LXttaXUKkk86i454kHbos?si=pcfN2SjsQaOkNiORlWXXlw)
 
 hello! welcome to the info page for birdhouse, my series of bird characters :D
@@ -11,5 +12,6 @@ I’m definitely planning on adding more birds, so this collection is still very
 I generally refer to all of my birds with it/its, but any way of referring to them is fine.
 
 [https://github.com/cloudyskystack/birdhouse](https://github.com/cloudyskystack/birdhouse)  
-this is a barebones static web page that receives updates regularly. light/dark theme depends on your device preferences.  
+this is a barebones static web page that receives updates regularly. light/dark theme depends on your device preferences.
+
 art fight: [cloudyskykid](https://artfight.net/~cloudyskykid) | tumblr: [@cloudy-brained](https://www.tumblr.com/cloudy-brained) | strawpage: [https://cloudyskykid.straw.page](https://cloudyskykid.straw.page) | email: scratchingcats.sh@gmail.com

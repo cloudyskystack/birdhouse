@@ -11,7 +11,7 @@ I’m definitely planning on adding more birds, so this collection is still very
 
 I generally refer to all of my birds with it/its, but any way of referring to them is fine.
 
-[https://github.com/cloudyskystack/birdhouse](https://github.com/cloudyskystack/birdhouse)  
+[github.com/cloudyskystack/birdhouse](https://github.com/cloudyskystack/birdhouse)  
 this is a barebones static web page that receives updates regularly. light/dark theme depends on your device preferences.
 
-art fight: [cloudyskykid](https://artfight.net/~cloudyskykid) | tumblr: [@cloudy-brained](https://www.tumblr.com/cloudy-brained) | strawpage: [cloudyskykid.straw.page](https://cloudyskykid.straw.page) | email: scratchingcats.sh@gmail.com
+art fight: [cloudyskykid](https://artfight.net/~cloudyskykid) | tumblr: <br>[@cloudy-brained](https://www.tumblr.com/cloudy-brained) | strawpage: [cloudyskykid.straw.page](https://cloudyskykid.straw.page) | email: scratchingcats.sh@gmail.com
